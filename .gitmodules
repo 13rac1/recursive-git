@@ -1,0 +1,3 @@
+[submodule "recursive-git"]
+	path = recursive-git
+	url = git@github.com:13rac1/recursive-git.git
